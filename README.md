@@ -1,7 +1,7 @@
 # Airfoil-Optimization-Using-Gradient-Descent
 
-This code is an attempt to explore airfoil optimization using gradient descent.  
-It has not yet achieved usable results and was developed to test the optimization algorithm.
+This project explores airfoil optimization using gradient descent. It has not achieved its desired results yet
+and is currently a work in progress and serves as a foundation for testing this optimization algorithm.
 
 ## Features
 - Uses **PARSEC parameterization**, coupled with **XFOIL** through the `pyxfoil` library.
